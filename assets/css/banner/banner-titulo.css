@@ -10,7 +10,6 @@
     width: 100%;
 }
 
-
 @media screen and (min-width: 0) {
     .banner__titulo {
         font-size: 3rem;
